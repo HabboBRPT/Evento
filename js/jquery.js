@@ -118,7 +118,7 @@ trs['block_title39'] = {
     "pt": 'Parabéns!',
 };
 trs['block_title40'] = {
-    "pt": 'Você ganhou um <b>Casaco de Pele Oversize</b>!',
+    "pt": 'Você ganhou um <b>Pentado Habbequina</b>!',
 };
 trs['block_title41'] = {
     "pt": '******',
@@ -130,7 +130,7 @@ trs['block_title43'] = {
     "pt": '',
 };
 trs['block_title44'] = { 
-    "pt": 'Entrar',
+    "pt": 'VAMOS LÁ!',
 	
 };
 trs['block_title45'] = {
