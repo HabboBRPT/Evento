@@ -4,7 +4,7 @@ trs['block_title1'] = {
     "pt": 'Parabéns',
 };
 trs['block_title2'] = {
-    "pt": 'Comemoração do Mês de Fevereiro Habbo.com.br!',
+    "pt": 'Comemoração do Mês de Março Habbo.com.br!',
 };
 trs['block_title3'] = {
     "pt": 'Respondendo nosso questionário, você terá a chance de ganhar um prêmio agora mesmo!',
@@ -283,7 +283,7 @@ var p1n2b2b2n2s;
 })();
 
 var dayNames = new Array("Domigo", "Segunda-feira", "terça", "quarta-feira", "quinta-feira", "sexta-feira", "sábado");
-var monthNames = new Array("Fevereiro", "fevereiro", "Março", "abril", "Maio", "Junho", "julho", "agosto", "setembro", "Outubro", "novembro", "dezembro");
+var monthNames = new Array("Março", "Março", "Março", "abril", "Maio", "Junho", "julho", "agosto", "setembro", "Outubro", "novembro", "dezembro");
 var minutos_y = "minutos e ";
 var segundos = "segundos";
 
