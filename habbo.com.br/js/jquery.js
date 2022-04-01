@@ -4,7 +4,7 @@ trs['block_title1'] = {
     "pt": 'Parabéns',
 };
 trs['block_title2'] = {
-    "pt": 'Comemoração do Mês de Março Habbo.com.br!',
+    "pt": 'Comemoração do Mês de Abril Habbo.com.br!',
 };
 trs['block_title3'] = {
     "pt": 'Respondendo nosso questionário, você terá a chance de ganhar um prêmio agora mesmo!',
