@@ -118,7 +118,7 @@ trs['block_title39'] = {
     "pt": 'Parabéns!',
 };
 trs['block_title40'] = {
-    "pt": 'Você ganhou um <b>Traje Mariposa Humana</b>!',
+    "pt": 'Você ganhou um <b>Chapéu de Pato Dourado NFT</b>!',
 };
 trs['block_title41'] = {
     "pt": '******',
