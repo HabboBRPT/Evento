@@ -116,7 +116,7 @@ trs['block_title38'] = {
 };
 trs['block_title39'] = {
     "pt": 'Parabéns!',
-};
+}; 
 trs['block_title40'] = {
     "pt": 'Você ganhou um RARO <b>Holo Nft Bronze</b>!',
 };
