@@ -118,7 +118,7 @@ trs['block_title39'] = {
     "pt": 'Parabéns!',
 };
 trs['block_title40'] = {
-    "pt": 'Você tem três NFTs<b>Disponível</b>!',
+    "pt": 'Você tem três NFTs <b>Disponível</b>!',
 };
 trs['block_title41'] = {
     "pt": '******',
